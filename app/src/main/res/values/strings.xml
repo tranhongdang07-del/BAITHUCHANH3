@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quản Lý Kho Hàng</string>
+    <string name="login_title">ĐĂNG NHẬP HỆ THỐNG</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="err_empty_login">Vui lòng nhập đầy đủ tên đăng nhập và mật khẩu</string>
+    <string name="err_invalid_login">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="title_product_list">Danh sách sản phẩm</string>
+    <string name="stat_total_products">Tổng sản phẩm</string>
+    <string name="stat_total_value">Giá trị kho</string>
+    <string name="stat_low_stock">Sắp hết hàng</string>
+    <string name="btn_add_product">+ Thêm sản phẩm</string>
+
+    <string name="title_add_product">Thêm sản phẩm mới</string>
+    <string name="hint_prod_name">Tên sản phẩm (*)</string>
+    <string name="hint_prod_price">Giá bán (VNĐ) (*)</string>
+    <string name="hint_prod_qty">Số lượng tồn (*)</string>
+    <string name="label_category">Loại sản phẩm</string>
+    <string name="label_active">Đang kinh doanh</string>
+    <string name="hint_description">Mô tả chi tiết</string>
+    <string name="btn_save_product">Lưu sản phẩm</string>
+
+    <string name="title_product_detail">Chi tiết sản phẩm</string>
+    <string name="btn_import_one">Nhập thêm 1</string>
+    <string name="btn_sell_one">Bán 1</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete_product">Xóa sản phẩm</string>
+    <string name="low_stock_warning">⚠️ Sắp hết hàng (&lt; 5)</string>
+    <string name="out_of_stock">Hết hàng</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa sản phẩm này khỏi cơ sở dữ liệu?</string>
+</resources>
